@@ -1,6 +1,7 @@
 # linux-programs
 
 FACTORIAL
+
 #! bin/bash
 echo "Welcome to Factorial Calculation"                                                                  
 echo "Enter a Number:"                                                                                   
