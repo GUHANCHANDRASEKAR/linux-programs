@@ -3,6 +3,7 @@
 FACTORIAL
 
 #! bin/bash
+
 echo "Welcome to Factorial Calculation"                                                                  
 echo "Enter a Number:"                                                                                   
 read n                                                                                                   
@@ -15,7 +16,9 @@ echo "Factorial of "$n "is:" $fact
 
 
 SUM OF N NUMBERS
-#! bin/bash                                                                                              
+
+#! bin/bash
+
 echo "Welcome to Sum of N number Calculation"                                                            
 echo "Enter the limit:"                                                                                  
 read a                                                                                                   
@@ -28,7 +31,9 @@ echo "Sum upto" $a "Numbers is:"$sum
 
 
 FIBONACCI SERIES
-#! /bin/bash                                                                                             
+
+#! /bin/bash
+
 echo "Welcome to Fibbonaci Series"                                                                       
 echo "Enter the limit:"                                                                                  
 read n                                                                                                   
@@ -44,7 +49,9 @@ done
 
 
 ALU
-#!/bin/bash                                                                                              
+
+#!/bin/bash
+
 echo "Welcome to ALU "                                                                                   
 echo "Enter number1 : "                                                                                  
 read a                                                                                                   
@@ -72,7 +79,9 @@ fi
 
 
 GREATEST OF 3NUMBERS
-#!/bin/bash                                                                                              
+
+#!/bin/bash
+
 echo "Enter the first number:"                                                                           
 read a                                                                                                   
 echo "Enter the second number:"                                                                          
